@@ -1,0 +1,210 @@
+[
+    {
+        "name": "Martini",
+        "image": "images/martini.webp",
+        "ingredients": [
+            "60 ml Gin",
+            "15 ml Dry Vermouth",
+            "Lemon twist or olive"
+        ],
+        "glassware": "Martini glass",
+        "ice": "None",
+        "garnish": "Lemon twist or olive",
+        "method": "Stir ingredients with ice and strain into a chilled martini glass. Garnish with a lemon twist or olive."
+    },
+    {
+        "name": "Margarita",
+        "image": "images/margarita.webp",
+        "ingredients": [
+            "60 ml Tequila",
+            "30 ml Lime juice",
+            "30 ml Cointreau",
+            "Salt rim"
+        ],
+        "glassware": "Margarita glass",
+        "ice": "Shaken with ice",
+        "garnish": "Lime wedge",
+        "method": "Shake tequila, lime juice, and Cointreau with ice. Strain into a salt-rimmed glass filled with fresh ice and garnish with a lime wedge."
+    },
+    {
+        "name": "Old Fashioned",
+        "image": "images/old-fashioned.webp",
+        "ingredients": [
+            "60 ml Bourbon or Rye whiskey",
+            "1 sugar cube",
+            "2 dashes Angostura bitters",
+            "Orange twist"
+        ],
+        "glassware": "Old Fashioned glass",
+        "ice": "1 large ice cube",
+        "garnish": "Orange twist",
+        "method": "Muddle the sugar cube with bitters in a glass. Add whiskey and a large ice cube, stir gently, and garnish with an orange twist."
+    },
+    {
+        "name": "Mojito",
+        "image": "images/mojito.webp",
+        "ingredients": [
+            "60 ml White rum",
+            "30 ml Lime juice",
+            "2 tsp Sugar",
+            "Mint leaves",
+            "Soda water"
+        ],
+        "glassware": "Highball glass",
+        "ice": "Crushed ice",
+        "garnish": "Mint sprig",
+        "method": "Muddle mint leaves, lime juice, and sugar in a glass. Fill with crushed ice, add rum, and top with soda water. Stir gently and garnish with a mint sprig."
+    },
+    {
+        "name": "Daiquiri",
+        "image": "images/daiquiri.webp",
+        "ingredients": [
+            "60 ml Light rum",
+            "30 ml Lime juice",
+            "22.5 ml Simple syrup"
+        ],
+        "glassware": "Cocktail glass",
+        "ice": "None",
+        "garnish": "Lime wheel",
+        "method": "Shake all ingredients with ice and strain into a chilled cocktail glass. Garnish with a lime wheel."
+    },
+    {
+        "name": "Negroni",
+        "image": "images/negroni.webp",
+        "ingredients": [
+            "30 ml Gin",
+            "30 ml Campari",
+            "30 ml Sweet vermouth",
+            "Orange peel"
+        ],
+        "glassware": "Rocks glass",
+        "ice": "Large ice cube",
+        "garnish": "Orange peel",
+        "method": "Stir gin, Campari, and sweet vermouth with ice and strain into a glass over a large ice cube. Garnish with an orange peel."
+    },
+    {
+        "name": "Cosmopolitan",
+        "image": "images/cosmopolitan.webp",
+        "ingredients": [
+            "45 ml Vodka",
+            "30 ml Cranberry juice",
+            "15 ml Triple sec",
+            "15 ml Lime juice"
+        ],
+        "glassware": "Cocktail glass",
+        "ice": "Shaken with ice",
+        "garnish": "Lime wedge",
+        "method": "Shake all ingredients with ice and strain into a chilled cocktail glass. Garnish with a lime wedge."
+    },
+    {
+        "name": "Whiskey Sour",
+        "image": "images/whiskey-sour.webp",
+        "ingredients": [
+            "60 ml Bourbon",
+            "22.5 ml Lemon juice",
+            "15 ml Simple syrup",
+            "Egg white (optional)"
+        ],
+        "glassware": "Old Fashioned glass",
+        "ice": "Cubed ice",
+        "garnish": "Cherry",
+        "method": "Shake all ingredients with ice, strain into a glass filled with ice, and garnish with a cherry. Optionally dry-shake first if using egg white."
+    },
+    {
+        "name": "Bloody Mary",
+        "image": "images/bloody-mary.webp",
+        "ingredients": [
+            "60 ml Vodka",
+            "120 ml Tomato juice",
+            "2 dashes Worcestershire sauce",
+            "2 dashes Hot sauce",
+            "Lemon juice",
+            "Salt and pepper"
+        ],
+        "glassware": "Highball glass",
+        "ice": "Cubed ice",
+        "garnish": "Celery stick and lemon wedge",
+        "method": "Build all ingredients in a glass, stir gently, and garnish with a celery stick and lemon wedge."
+    },
+    {
+        "name": "Manhattan",
+        "image": "images/manhattan.webp",
+        "ingredients": [
+            "60 ml Rye whiskey",
+            "30 ml Sweet vermouth",
+            "2 dashes Angostura bitters",
+            "Cherry"
+        ],
+        "glassware": "Cocktail glass",
+        "ice": "None",
+        "garnish": "Cherry",
+        "method": "Stir all ingredients with ice and strain into a chilled cocktail glass. Garnish with a cherry."
+    },
+    {
+        "name": "Pina Colada",
+        "image": "images/pina-colada.webp",
+        "ingredients": [
+            "60 ml White rum",
+            "30 ml Coconut cream",
+            "30 ml Pineapple juice"
+        ],
+        "glassware": "Hurricane glass",
+        "ice": "Blended with ice",
+        "garnish": "Pineapple wedge and cherry",
+        "method": "Blend all ingredients with ice until smooth and pour into a glass. Garnish with a pineapple wedge and cherry."
+    },
+    {
+        "name": "Gin and Tonic",
+        "image": "images/gin-and-tonic.webp",
+        "ingredients": [
+            "60 ml Gin",
+            "Tonic water",
+            "Lime wedge"
+        ],
+        "glassware": "Highball glass",
+        "ice": "Cubed ice",
+        "garnish": "Lime wedge",
+        "method": "Build gin and tonic water in a glass filled with ice. Garnish with a lime wedge."
+    },
+    {
+        "name": "Sazerac",
+        "image": "images/sazerac.webp",
+        "ingredients": [
+            "60 ml Rye whiskey",
+            "1 sugar cube",
+            "2 dashes Peychaud's bitters",
+            "Absinthe rinse"
+        ],
+        "glassware": "Old Fashioned glass",
+        "ice": "None",
+        "garnish": "Lemon peel",
+        "method": "Rinse a glass with absinthe. Muddle the sugar cube with bitters, add whiskey, stir, and strain into the glass. Garnish with a lemon peel."
+    },
+    {
+        "name": "Caipirinha",
+        "image": "images/caipirinha.webp",
+        "ingredients": [
+            "60 ml Cachaça",
+            "1/2 Lime",
+            "2 tsp Sugar"
+        ],
+        "glassware": "Old Fashioned glass",
+        "ice": "Crushed ice",
+        "garnish": "Lime wedge",
+        "method": "Muddle lime and sugar in a glass, fill with crushed ice, add cachaça, and stir gently. Garnish with a lime wedge."
+    },
+    {
+        "name": "Tom Collins",
+        "image": "images/tom-collins.webp",
+        "ingredients": [
+            "60 ml Gin",
+            "30 ml Lemon juice",
+            "15 ml Simple syrup",
+            "Soda water"
+        ],
+        "glassware": "Collins glass",
+        "ice": "Cubed ice",
+        "garnish": "Lemon slice and cherry",
+        "method": "Shake gin, lemon juice, and simple syrup with ice. Strain into a glass filled with ice, top with soda water, and garnish with a lemon slice and cherry."
+    }
+]
