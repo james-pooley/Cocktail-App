@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Link, Routes } from 'react-router-dom';
 import styled from 'styled-components';
 import CocktailList from './components/CocktailList';
+import ProfilePage from './components/ProfilePage';
 import Home from './components/Home';
 
 const App = () => {
@@ -9,12 +10,13 @@ const App = () => {
     <Router>
       <div>
         <Header>
-          <Logo src="/images/logo_white.png" alt="Logo" /> {/* Replace text with image */}
+          <Logo src="/images/logo_white.png" alt="Logo" /> 
           <Nav>
             <ul>
               <li><Link to="/">Home</Link></li>
-              <li><Link to="/classics">Classic Cocktails</Link></li>
-              <li><Link to="/ivy">Ivy Cocktails</Link></li>
+              <li><Link to="/classics">Classics</Link></li>
+              <li><Link to="/ivy">Ivy</Link></li>
+              <li><Link to="/profile">Profile</Link></li>
             </ul>
           </Nav>
         </Header>
@@ -24,6 +26,7 @@ const App = () => {
             <Route path="/" element={<Home />} />
             <Route path="/classics" element={<CocktailList type="classics" />} />
             <Route path="/ivy" element={<CocktailList type="ivy" />} />
+            <Route path="/profile" element={<ProfilePage />} />
           </Routes>
         </MainContent>
       </div>

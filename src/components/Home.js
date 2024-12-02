@@ -10,6 +10,7 @@ const Home = () => {
       <ButtonContainer>
         <StyledLink to="/classics">Classic Cocktails</StyledLink>
         <StyledLink to="/ivy">Ivy Cocktails</StyledLink>
+        <StyledLink to="/profile">Add your own</StyledLink>
       </ButtonContainer>
     </HomeContainer>
   );
